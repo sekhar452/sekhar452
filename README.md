@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**sekhar452/sekhar452** is a ✨# Hi, I'm Madhu Sekhar Kuruva 👋
+# Hi, I'm Madhu Sekhar Kuruva 👋
 
 ## About Me
 Infrastructure Transformation Professional with hands-on experience supporting server migrations, infrastructure modernization, and cross-team coordination.
@@ -32,5 +29,4 @@ I am building practical skills in DevOps, MLOps, Machine Learning, and infrastru
 - Dockerized ML Model Deployment
 
 ## Goals
-Build reliable automation workflows and end-to-end MLOps projects through hands-on practice. _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Build reliable automation workflows and end-to-end MLOps projects through hands-on practice.
